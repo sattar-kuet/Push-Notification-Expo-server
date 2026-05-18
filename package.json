@@ -1,0 +1,27 @@
+{
+  "name": "notificationserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "expo-server-sdk": "^6.1.0",
+    "firebase-admin": "^13.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esmotara-codec/Push-Notification-Expo-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esmotara-codec/Push-Notification-Expo-server/issues"
+  },
+  "homepage": "https://github.com/esmotara-codec/Push-Notification-Expo-server#readme"
+}
